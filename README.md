@@ -1,1 +1,1 @@
-# Group7-Homecredit-default-risk-prediction-model
+# Homecredit-default-risk-prediction-model
